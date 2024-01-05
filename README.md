@@ -15,8 +15,6 @@ The project focused on creating a comprehensive Loan Management System to automa
 2. Back-end: Python, Flask
 3. Database: SQLite3
 4. Other Tools: Streamlit, Git for version control
-## 🔗 Links
 
-Visit my loan management site @ https://atbika.pythonanywhere.com/ 
 ## Conclusion
 We welcome contributions and suggestions to enhance the functionality and usability of the Loan Management System. Feel free to fork the repository, make improvements, and create pull requests.
